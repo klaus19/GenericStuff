@@ -62,5 +62,3 @@ abstract class Prototype: AppCompatActivity() {
 }
 
 
-
-}
